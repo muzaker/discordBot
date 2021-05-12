@@ -1,0 +1,28 @@
+{
+  "name": "azkarbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prettier": "npx prettier --write .",
+    "test": "node testfile.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "child_process": "^1.0.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "hijri-date": "^0.2.2",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0",
+    "ranidb": "0.0.72",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
