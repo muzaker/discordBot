@@ -1,8 +1,8 @@
 # AzkarBOT
 
-![logo](https://github.com/muzaker/telegramBot/raw/main/logo.jpg)
+![logo](https://github.com/muzaker/telegramBot/raw/main/logo.png)
 
-> A simple Bot discord to azkar.
+> A simple Bot discord to azkar (under development).
 
 ## Installation
 
